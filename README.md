@@ -11,4 +11,4 @@ If both work, I'm *finally* gonna start designing analog frontends hardware and 
 
 Don't be surprised with „waifu” naming scheme, if I'm eccentric enough to try adotping old DAQ cards to DIY-ish DAQ system with **vast** analog capabilites (the last part being TRULY hard).
 
-OH, IF IT'S NOT ALREADY CLEAR: this is modular setup, requiring awareness from any potential user in order **to not harm themselves**. I assume you already are one, and MIT license doesn't protect you from any property/owner/user damage. Also, I hope documentation of everything here will be clear enough.
+OH, IF IT'S NOT ALREADY CLEAR: this is modular setup, requiring awareness from any potential user in order **to not harm themselves**. I assume you already are one, and MIT license doesn't protect you from any property/owner/user damage. Also, I hope documentation of everything here will be clear enough. It's not plug-and-play anyway, too.
