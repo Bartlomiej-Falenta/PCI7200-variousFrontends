@@ -6,7 +6,8 @@ Then, I'll try designing simple digital, multipurpose backend PCBs, first binary
 If both work, I'm *finally* gonna start designing analog frontends hardware and software (host + firmaware), with each of frontend classes named after favorite fictional girls:
  * Ϫⲉⲓⲇ (Jade): various ADC frontends, with one semi-universal frontend subclass + three main subclasses oriented towards different goals (highest achieveable **frequency range** vs highest possible **bit resolution** vs highest **number** of analog input channels); 
  * Ⲙⲁϧⲉⲗⲓⲁⲛ (Machlian): various DAC frontends – subclasses analogous to previous, one semi-universal and three speciallized (probably some of them may be based on Direct Digital Synthesis, rather than actual DAC);
- * Ⲗⲓⲥⲁ (Lisa): power-electronics and electrotechnics measurement-only oriented frontend – potentially most dangerous, with a lot of precautions applied on it, and even more necessary from potential users;
+ * Ⲙⲟⲛⲓⲕⲁ (Monika): proper digital multipurpose frontend unit, capable of switching modes of operation (binary, balanced ternary) and voltages (3.3 V, 5 V, 9 V, 12 V). May include analog input for PSK, FSK, QAM, PAM, etc. – that's optional rather than must-have.
+ * Ⲓⲱⲕⲁⲣⲓⲛ (Yukarin): power-electronics and electrotechnics measurement-only oriented frontend – potentially most dangerous, with a lot of precautions applied on it, and even more necessary from potential users;
  * Ⲣⲓⲁⲥ (Rias): chirp-based spectrum analyzer frontend – likely will be derived from ~~tinySA~~ similar projects due to IP laws protecting tinySA – most likely RTL-SDR (assuming I will be able to adopt it to randomly found, ancient DAQ card);
 
 Don't be surprised with „waifu” naming scheme, if I'm eccentric enough to try adotping old DAQ cards to DIY-ish DAQ system with **vast** analog capabilites (the last part being TRULY hard).
